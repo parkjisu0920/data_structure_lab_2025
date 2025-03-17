@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\USER\Documents\data_structure_lab_2025\Lec02_Findmax\Lec02_Findmax\소스.cpp(17,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\USER\Documents\data_structure_lab_2025\Lec02_Findmax\Lec02_Findmax\소스.cpp(21,24): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  C:\Users\USER\Documents\data_structure_lab_2025\Lec02_Findmax\Lec02_Findmax\소스.cpp(21,24):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  
+  Lec02_Findmax.vcxproj -> C:\Users\USER\Documents\data_structure_lab_2025\Lec02_Findmax\x64\Debug\Lec02_Findmax.exe
