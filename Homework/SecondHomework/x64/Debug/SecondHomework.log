@@ -1,0 +1,2 @@
+﻿  find_max_pixel.cpp
+C:\Users\Admin\Desktop\Homework\Homework\SecondHomework\find_max_pixel.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory

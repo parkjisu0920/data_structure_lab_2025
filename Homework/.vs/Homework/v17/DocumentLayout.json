@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7317C248-7510-48C2-8743-E15DB3009958}|FirstHomework\\FirstHomework.vcxproj|C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\FirstHomework\\array_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7317C248-7510-48C2-8743-E15DB3009958}|FirstHomework\\FirstHomework.vcxproj|solutionrelative:FirstHomework\\array_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E98CA3-737B-495E-97C4-7B0E050BD9BF}|SecondHomework\\SecondHomework.vcxproj|C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\SecondHomework\\find_max_pixel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24E98CA3-737B-495E-97C4-7B0E050BD9BF}|SecondHomework\\SecondHomework.vcxproj|solutionrelative:SecondHomework\\find_max_pixel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\Homework\\array_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework\\array_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95379E7A-7C51-4716-B60F-ADC2C1296739}|ThirdHomework\\ThirdHomework.vcxproj|C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\ThirdHomework\\sparsepoly.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95379E7A-7C51-4716-B60F-ADC2C1296739}|ThirdHomework\\ThirdHomework.vcxproj|solutionrelative:ThirdHomework\\sparsepoly.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95379E7A-7C51-4716-B60F-ADC2C1296739}|ThirdHomework\\ThirdHomework.vcxproj|C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\ThirdHomework\\sparsepoly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95379E7A-7C51-4716-B60F-ADC2C1296739}|ThirdHomework\\ThirdHomework.vcxproj|solutionrelative:ThirdHomework\\sparsepoly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array_max.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\FirstHomework\\array_max.cpp",
+              "RelativeDocumentMoniker": "FirstHomework\\array_max.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\FirstHomework\\array_max.cpp",
+              "RelativeToolTip": "FirstHomework\\array_max.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T03:11:28.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sparsepoly.hpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\ThirdHomework\\sparsepoly.hpp",
+              "RelativeDocumentMoniker": "ThirdHomework\\sparsepoly.hpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\ThirdHomework\\sparsepoly.hpp",
+              "RelativeToolTip": "ThirdHomework\\sparsepoly.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T02:13:13.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sparsepoly.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\ThirdHomework\\sparsepoly.cpp",
+              "RelativeDocumentMoniker": "ThirdHomework\\sparsepoly.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\ThirdHomework\\sparsepoly.cpp",
+              "RelativeToolTip": "ThirdHomework\\sparsepoly.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv18AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T02:12:58.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "find_max_pixel.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\SecondHomework\\find_max_pixel.cpp",
+              "RelativeDocumentMoniker": "SecondHomework\\find_max_pixel.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\SecondHomework\\find_max_pixel.cpp",
+              "RelativeToolTip": "SecondHomework\\find_max_pixel.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T02:10:57.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "array_max.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\Homework\\array_max.cpp",
+              "RelativeDocumentMoniker": "Homework\\array_max.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\uB370\uAD6C\uC870\\Homework\\Homework\\array_max.cpp",
+              "RelativeToolTip": "Homework\\array_max.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T02:09:51.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
